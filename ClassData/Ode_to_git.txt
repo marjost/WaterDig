@@ -27,3 +27,5 @@ It is not in vain to fork in twain
 a project lain before you
 
 Mat
+With my head held high and my hand in fist.
+Now at last I've cloned in git.
